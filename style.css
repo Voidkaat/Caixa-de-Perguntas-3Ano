@@ -1,5 +1,6 @@
 body{
     background-color: rgba(0, 0, 0, 0.377);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 footer{
     background-color: aliceblue; 
@@ -9,8 +10,18 @@ footer{
     width: 100% ;
     height: 2rem;
 }
-footer p{
+footer p {
     text-align: center;
     font-size: 0.6rem;
     margin-top: 0.5rem;
+}
+#container {
+    display: flex;
+}
+.cartao{
+    margin: 1rem 1rem;
+    background-color: azure;
+    height: 20rem;
+    flex-grow: 1;
+
 }
