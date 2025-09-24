@@ -65,13 +65,11 @@ footer p {
     height:100%;
     width:100%;
 }
-
 .cartao_conteudo_resposta{
 transform:rotate(180deg)
 }
-
 .cartao_conteudo p{
     margin-top: 1rem;
     padding: 2rem;
-    margin:p 4rem;
+    margin-top: 4rem;
 }
